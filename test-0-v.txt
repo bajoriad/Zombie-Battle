@@ -1,0 +1,35 @@
+# Project 2 specification
+quiver-capacity: 20
+random-seed: 20567
+max-rand-distance: 6
+max-rabd-speed: 70
+max-rand-health: 2
+---
+round: 10
+random-zombies: 0
+named-zombies: 4
+James distance: 100000 speed: 4 health: 300
+Michelle distance: 60000 speed: 20 health: 400
+Mark distance: 70000 speed: 5 health: 60
+Milly distance: 80000 speed: 90 health: 80
+---
+round: 60
+random-zombies: 0
+named-zombies: 2
+Heena distance: 90050 speed: 1 health: 5
+Sam distance: 78000 speed: 20 health: 40
+---
+round: 80
+random-zombies: 0
+named-zombies: 3
+Justin distance: 4700 speed: 67 health: 5
+Anthony distance: 4700 speed: 67 health: 5
+Jeremy distance: 7800 speed: 89 health: 9
+---
+round: 250
+random-zombies: 5
+named-zombies: 3
+Justin1 distance: 4800 speed: 68 health: 5
+Anthony1 distance: 4800 speed: 68 health: 5
+Jeremy1 distance: 7900 speed: 95 health: 9
+

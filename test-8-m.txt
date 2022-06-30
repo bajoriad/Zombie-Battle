@@ -1,0 +1,18 @@
+# Project 2 specification
+quiver 10 seed 20567
+rand-distan 6 rand-speed 78 rand-heal 78
+---
+ro 1
+ranhj 25
+nz 5
+James distance: 40 speed: 4 he: 55
+Michelle distance: 58 sp 20 health: 40
+Mark distance: 20 speed: 50 health: 30
+Silly distance: 50 sp 89 health: 90
+Milly d 60 speed: 89 health: 78
+---
+round: 3
+random-zombies: 5
+named-zombies: 2
+Heena distance: 50 speed: 40 health: 5
+Sam distance: 58 speed: 20 health: 40
